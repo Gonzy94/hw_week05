@@ -15,7 +15,7 @@ and CSS powered by jQuery.
 
 This site can be accessed by clicking the link below:
 
-https://gonzy94.github.io/Updated-Portfolio/
+https://gonzy94.github.io/hw_week05/
 
 ## Built With
 * HTML
